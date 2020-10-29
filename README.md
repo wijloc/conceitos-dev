@@ -1,3 +1,3 @@
-# Bootcampo GoStack:nivel1
+# Bootcampo GoStack:level1:module1
 
-Repositório com códigos utilizados durante a aula no nível 1.
+Repository with codes used during the class at level 1.
