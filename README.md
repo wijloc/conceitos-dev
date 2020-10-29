@@ -1,2 +1,3 @@
-# gostack-nivel1-module2
-GoStack Level 1 Module 1
+# Bootcampo GoStack:level1:module2
+
+Repository with codes used during the class at level 1 module 2.
