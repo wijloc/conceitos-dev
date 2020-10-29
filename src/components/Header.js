@@ -1,9 +1,8 @@
 import React from 'react';
 
-export default function Header(){
+export default function Header({title}){
+
   return (
-    <header>
-      <h1>ReactJS2</h1>
-    </header>
+    <h1>{title}</h1>
   );
 }
