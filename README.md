@@ -1,2 +1,2 @@
 # conceitos-dev
-App to manager projects
+App to manager projects and apply
