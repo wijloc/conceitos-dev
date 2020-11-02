@@ -37,6 +37,6 @@ const styles = StyleSheet.create({
   },
   project: {
     color: '#fff',
-    fontSize:120,
+    fontSize:30,
   }
 })
